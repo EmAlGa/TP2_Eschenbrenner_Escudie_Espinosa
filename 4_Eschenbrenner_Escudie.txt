@@ -1,2 +1,6 @@
 Eschenbrenner Emma
 Escudié Albane
+
+A partir du dossier principal, une branche est par défaut créée: c'est la branche master. Une fois placées dans cette branche nous avons ajouté une nouvelle branche qui est donc une sous branche de master. 
+Dans la branche master, nous avons ajouté le fichier test et dans la branche mon_fichier nous avons ajouté le fichier 4_Eschenbrenner_Escudie. 
+Ces deux fichiers étant dans des branches différentes, si l'on se place dans la branche master nous ne pouvons pas voir les fichiers de la branche mon_fichier. Et inversement.
